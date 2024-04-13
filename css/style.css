@@ -106,4 +106,10 @@ body {
     border: none;
     color: #fff;
 }
+#search-form input:focus {
+    box-shadow: none;
+}
 
+#search-form input::placeholder {
+    color: #fff;
+}
