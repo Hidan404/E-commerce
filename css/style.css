@@ -407,3 +407,17 @@ body {
 #news-form .btn {
     color: #fff;
 }
+#social-container i {
+    font-size: 1.5em;
+    margin: 10px;
+    cursor: pointer;
+    color: #626262;
+    transition: .3s;
+}
+#social-container i:hover {
+    color: #c09578;
+}
+#copy-container {
+    text-align: center;
+    padding: 30px;
+}
